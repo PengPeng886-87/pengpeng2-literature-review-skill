@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pengpeng2 经管文献综述"
+  short_description: "精读经管文献、构建证据矩阵与叙事式综述逻辑链，并核验引文边界"
+  default_prompt: "使用 $pengpeng2 精读这些经管文献，建立证据矩阵和逻辑链，并写成简洁连贯、引文可核验的文献综述。"
